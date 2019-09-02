@@ -1,5 +1,5 @@
 {
-  "summary" : "Plugin to Replace a font across an entire XD document",
+  "summary" : "Replace a font in a document",
   "languages" : [ "en" ],
   "author" : "Adam Coulombe",
   "name" : "Global Font Replace",
@@ -36,5 +36,5 @@
     "label": "Global Font Replace",
     "panelId": "globalFontReplace"
 } ],
-  "version" : "0.0.1"
+  "version" : "1.0.0"
 }
